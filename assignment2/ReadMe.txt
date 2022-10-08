@@ -1,7 +1,8 @@
 Read me - Assignment2 - Neural Network
 CS 4783/5783
 
-Question 1 is uploaded through Canvas
+Question 1 is in the pdf name "Assignment 2 Question1"
+Question 2 follow up answers are in the pdf name "Assignment 2 Question2"
 Question 2 code is posted on Github repository
 
 To change the activation function
